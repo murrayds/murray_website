@@ -22,6 +22,9 @@ bio: I study the social dimensions of science using big data and machine learnin
 
 interests:
 - Science of Science
+- Scientometrics
+- Scientific Mobility
+- Geography of Science
 - Computational Social Science
 - Data Science
 - Representation Learning
@@ -54,7 +57,7 @@ social:
   link: https://github.com/murrayds
 - icon: cv
   icon_pack: ai
-  link: files/cv/cv.pdf
+  link: cv/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 
@@ -69,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a computational social scientist studying the social and epistemic dynamics of the global scientific ecosystem. To do so, I leverage neural-network based representation learning to construct simplified embeddings of bibliometric and social networks.
+I'm a Computational Social Scientist studying the social dimensions of the global scientific ecosystem. In particular, I'm interested in how the movements of people—whether across the world or between disciplines—shapes science. Who gets to move? Where do they move to? How does entering as a newcomer to a new place or discipline impact you, and those around you? These are the questions I hope to answer. I use network and representation learning techniques to make sense of massive bibliographic data and academic social networks.
 
-I am currently pursuing a PhD at Indiana University Bloomington in the department of Informatics, Computing, and Engineering. I have been fortunate enough to be advised by Dr. Cassidy Sugimoto and am currently working as a research assistant on the Minerva-funded *Sciecne Genome* project under the supervision of Ahn Yong-Yeol. Apart from work, I enjoy running, cooking, traveling, and reading science fiction.
+I am currently pursuing a PhD at Indiana University Bloomington in the department of Informatics, Computing, and Engineering and an alumni of the Santa Fe Institute's Complex Systems Summer School. I have two amazing advisors: Dr. Cassidy Sugimoto and Dr. Yong-Yeol Ahn. Currently I am a member of the *Science Genome* project funded by the DoD Minerva Initiative. Apart from work, I enjoy running, cooking, traveling, and reading science fiction.
