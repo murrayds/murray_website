@@ -22,7 +22,6 @@ bio: I study the social dimensions of science using big data and machine learnin
 
 interests:
 - Science of Science
-- Scientometrics
 - Scientific Mobility
 - Geography of Science
 - Computational Social Science
@@ -72,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Computational Social Scientist studying the social dimensions of the global scientific ecosystem. In particular, I'm interested in how the movements of people—whether across the world or between disciplines—shapes science. Who gets to move? Where do they move to? How does entering as a newcomer to a new place or discipline impact you, and those around you? These are the questions I hope to answer. I use network and representation learning techniques to make sense of massive bibliographic data and academic social networks.
+I study the social dimensions of the global scientific ecosystem. In particular, I'm interested in how the movements of people—whether across the world or between disciplines—shapes science. Who gets to move? Where do they move to? How does moving impact you, and those around you? I use network and representation learning techniques to make sense of massive bibliographic data and academic social networks.
 
-I am currently pursuing a PhD at Indiana University Bloomington in the department of Informatics, Computing, and Engineering and an alumni of the Santa Fe Institute's Complex Systems Summer School. I have two amazing advisors: Dr. Cassidy Sugimoto and Dr. Yong-Yeol Ahn. Currently I am a member of the *Science Genome* project funded by the DoD Minerva Initiative. Apart from work, I enjoy running, cooking, traveling, and reading science fiction.
+I am currently pursuing a PhD at Indiana University Bloomington in the department of [Informatics, Computing, and Engineering](https://luddy.indiana.edu/) and an alumni of the [Santa Fe Institute's Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school). I have two amazing advisors: [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimoto/index.php) and [Dr. Yong-Yeol Ahn](https://yongyeol.com/). Currently I am a member of the *Science Genome* project funded by the DoD [Minerva Initiative](https://minerva.defense.gov/). Apart from work, I enjoy running, cooking, traveling, and reading science fiction.
