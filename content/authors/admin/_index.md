@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Candidate in Informatics
+role: PhD in Informatics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study the social factors shaping science and scientific careers
+bio: I study the social dimensions of science
 
 interests:
 - Science of Science
@@ -69,8 +69,9 @@ user_groups:
 - Visitors
 ---
 
-I study the social factors that shape scientific careers, and in turn, shape the global scientific ecosystem. In particular, I'm interested in biases and misincentives in evaluative institutions in academia, such as citation counts, peer review, and even obituaries. I also like to study boundaries in science, and who, when, why, and how people cross them.
-Specifically, scientists cross geographic boundaries, moving from institution to institution over the course of their career.
-Similarly, scientists cross epistemic boundaries, changing their discipline and research topics over time, sometimes drastically. 
+I aim to understand the social dimensions of the global scientific ecosystem by leveraging massive datasets, computational techniques, and social theory.
 
-I am currently pursuing a PhD at Indiana University Bloomington in the department of [Informatics, Computing, and Engineering](https://luddy.indiana.edu/) and an alumni of the [Santa Fe Institute's Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school). I have two amazing advisors: [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimoto/index.php) and [Dr. Yong-Yeol Ahn](https://yongyeol.com/). Currently I am a member of the *Science Genome* project funded by the DoD [Minerva Initiative](https://minerva.defense.gov/). Apart from work, I enjoy running, cooking, traveling, and reading science fiction.
+I have a PhD in [Informatics](https://luddy.indiana.edu/) from Indiana University Bloomington, where I wrote my dissertation [*"Embracing Complexity in the Science of Science"*](slides/dissertation_presentation.pdf) under the amazing mentorship of [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimoto/index.php) and [Dr. Yong-Yeol Ahn](https://yongyeol.com/).
+I am an alumni of the [Santa Fe Institute's Complex Systems Summer School](https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school).
+
+When not working, I enjoy running, cooking, traveling, reading, and spending time with my wonderful wife and daughter.

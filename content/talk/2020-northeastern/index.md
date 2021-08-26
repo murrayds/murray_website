@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2021 Northwestern"
-event: 
+title: "2021 Northeastern"
+event:
 event_url:
 location:
 address:
