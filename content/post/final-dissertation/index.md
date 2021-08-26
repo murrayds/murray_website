@@ -4,7 +4,8 @@
 title: "Defending my dissertation"
 subtitle: ""
 summary: ""
-authors: [admin]
+authors:
+  - admin
 tags: ["dissertation", "career"]
 categories: []
 date: 2021-08-26T12:38:42-04:00
